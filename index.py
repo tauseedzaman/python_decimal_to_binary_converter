@@ -31,7 +31,7 @@ def copy():
     messagebox.showinfo("Don","Copyed")
     
 # title
-Label(app,text="Descimal to Binary converter",bg="black",fg="cyan",font=("times bold ", 30)).place(x=100,y=20)
+Label(app,text="Decimal to Binary converter",bg="black",fg="cyan",font=("times bold ", 30)).place(x=100,y=20)
 
 
 #descimal label
